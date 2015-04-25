@@ -1,0 +1,30 @@
+.block{
+	background:url(grid.png);
+	background-size:cover;
+	width:25px;
+	height:25px;
+	line-height:25px;
+	display:inline-block;
+	padding:0;
+	margin:0;
+}
+.white{
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background:white;
+}
+.black{
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	background:black;
+}
+.row{
+	height:25px;
+}
+.matrix{
+	position:absolute;
+	left:50%;
+	-webkit-transform:translateX(-50%);
+}
