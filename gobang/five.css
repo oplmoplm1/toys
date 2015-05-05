@@ -1,3 +1,7 @@
+.main{
+	width:380px;
+	height:380px;
+}
 .block{
 	background:url(grid.png);
 	background-size:cover;
@@ -24,7 +28,5 @@
 	height:25px;
 }
 .matrix{
-	position:absolute;
-	left:50%;
-	-webkit-transform:translateX(-50%);
+	
 }

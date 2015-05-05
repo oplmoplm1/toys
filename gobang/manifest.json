@@ -1,0 +1,14 @@
+{  
+  "name": "GoBang",  
+  "version": "0.1.1",  
+  "manifest_version": 2,
+  "description": "GoBang game without restricted move.",  
+  "icons":{
+  "128":"grid.png"
+  },
+  "browser_action": {  
+    "default_icon": "grid.png" ,
+    "default_title": "GoBang",
+    "default_popup": "five.html"
+  }  
+} 
